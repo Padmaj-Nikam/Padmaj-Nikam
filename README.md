@@ -5,7 +5,7 @@
 
 ## 👋 Introduction
 
-Namaste Everyone! I'm Padmaj Nikam a passionate Seeker from Pune, India. I love to create projects while I am high on coffee and working out my brain.
+Namaste Everyone! I'm Padmaj Nikam a passionate Seeker from Pune, India. I love to create projects while I am high on coffee and driven by numbers.
 
 ## 🚀 What I Do
 
