@@ -5,12 +5,12 @@
 
 ## 👋 Introduction
 
-Namaste Everyone! I'm Padmaj Nikam a passionate Seeker from Pune, India. I love to create projects while I am high on coffee and driven by numbers.
+Namaste Everyone! I'm Padmaj Nikam a passionate Seeker from Pune, India. I love to create projects while I am high on coffee and driven by numbers. 
 
 ## 🚀 What I Do
 
 - 💻 **Languages:** Python, C, SQL, Kotlin
-- 🌐 **Technologies:** ML, Apache PySpark, Tensorflow, PyTorch, Langchain, Docker, Android Development
+- 🌐 **Technologies:** ML, Apache PySpark, Tensorflow, PyTorch, Langchain, Docker, Android Development, NLP
 
 ## 📈 GitHub Stats
 
