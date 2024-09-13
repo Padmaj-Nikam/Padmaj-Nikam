@@ -9,8 +9,8 @@ Namaste Everyone! I'm Padmaj Nikam a passionate Seeker from Pune, India. I love 
 
 ## 🚀 What I Do
 
-- 💻 **Languages:** Python, C, SQL, Kotlin
-- 🌐 **Technologies:** ML, Tensorflow, PyTorch, Langchain, Docker, Android Development
+- 💻 **Languages:** Python, C, SQL, PHP, Kotlin
+- 🌐 **Technologies:** ML, Tensorflow, PyTorch, Langchain, Docker, Android Development, Web Full-Stack with Laravel
 
 ## 📈 GitHub Stats
 
