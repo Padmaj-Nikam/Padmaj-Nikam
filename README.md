@@ -9,16 +9,16 @@ Namaste Everyone! I'm Padmaj Nikam a passionate Seeker from Pune, India. I love 
 
 ## 🚀 What I Do
 
-- 💻 **Languages:** Python, C, SQL, PHP, Kotlin
-- 🌐 **Technologies:** ML, Tensorflow, PyTorch, Langchain, Docker, Android Development, Web Full-Stack with Laravel
+- 💻 **Languages:** Python, Typescript, Javascript, C, SQL, PHP
+- 🌐 **Technologies:** ML, Kubernetes, PyTorch, Langchain, Docker, Android Development, Web Full-Stack with Laravel
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Padmaj-Nikam&show_icons=true)
+![Padmaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=padmajnikam&show_icons=true&theme=github_dark&hide_border=true)
 
-## 📊 Top Languages
+### 🔥 Most Used Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmaj-Nikam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padmajnikam&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🌱 Current Projects
 
