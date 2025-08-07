@@ -5,9 +5,9 @@
 
 ## 👋 Introduction
 
-Namaste Everyone! I'm Padmaj Nikam a passionate Seeker from Pune, India. I love to create projects while I am high on coffee, driven by numbers and loves mma.
+Namaste Everyone! I'm Padmaj Nikam a curious competent human being who has an unique perspective to build solutions to simple and complex problems. I am also good at presenting those solutions in an articulate manner and maybe that is my USP. 
 
 ## 🚀 What I Do
 
-- 💻 **Languages:** Python, Typescript, Javascript, C, SQL, PHP
-- 🌐 **Technologies:** ML, Kubernetes, PyTorch, Langchain, Docker, Android Development, Web Full-Stack with Laravel
+- 💻 **Languages:** Anything that gets the job done, but python, typescript, javascript, golang, php and c are some I have hands on experience with.
+- 🌐 **Technologies:** I can develop, maintain and deploy services ranging from a basic auth to a complex ML data pipeline. 
